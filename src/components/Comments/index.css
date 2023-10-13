@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.bgContainer {
+  background-color: white;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+.heading {
+  color: black;
+}
+.btn3 {
+  background-color: #0284c7;
+  border-radius: 12px;
+  border: 0px;
+  padding: 10px;
+}
+.btn2 {
+  background-color: #0284c7;
+  border-radius: 5px;
+  border: 0px;
+  height: 40px;
+  width: 40px;
+}
+.one {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.container1 {
+  width: 70vw;
+}
+.input1 {
+  width: 25vw;
+  font-family: Roboto;
+  padding: 10px;
+}
+.two {
+  display: flex;
+  align-items: center;
+}
+.para1 {
+  color: black;
+}
+.two1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
